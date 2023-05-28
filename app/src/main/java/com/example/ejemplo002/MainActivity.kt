@@ -24,6 +24,10 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Text(text = "Yo soy anderson")
                     Text(text = "Yo soy jhon")
+                    
+                    Text(text = "Comando leer_guardar_eliminar")
+
+
 
                 }
             }
