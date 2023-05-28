@@ -23,6 +23,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Text(text = "Yo soy anderson")
+                    Text(text = "Yo soy jhon")
+
                 }
             }
         }
